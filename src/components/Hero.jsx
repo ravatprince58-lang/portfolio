@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-function Hero() {
+function HEro() {
   return (
     <section id="home" className="min-h-screen flex items-center justify-center">
 
@@ -32,4 +32,4 @@ function Hero() {
   );
 }
 
-export default Hero;
+export default HEro;

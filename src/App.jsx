@@ -6,8 +6,8 @@ import Projects from "./components/Projects";
 // import GithubProjects from "./components/GIthubProjects.jsx";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import Testimonials from "./components/TEstimonials.jsx";
-import Hero from "./components/HEro.jsx";
+import TEstimonials from "./components/TEstimonials.jsx";
+import HEro from "./components/HEro.jsx";
 // AOS Animation
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -30,7 +30,7 @@ function App() {
 
       {/* Hero Section */}
       <section id="home" data-aos="fade-up">
-        <Hero />
+        <HEro />
       </section>
 
       {/* About */}
@@ -62,7 +62,7 @@ function App() {
 
       {/* Testimonials */}
       <section id="testimonials" data-aos="fade-up">
-        <Testimonials />
+        <TEstimonials />
       </section>
 
       

@@ -6,7 +6,7 @@ const skills = [
   { name: "HTML", icon: <FaHtml5 />, level: 90 },
   { name: "CSS", icon: <FaCss3Alt />, level: 85 },
   { name: "Tailwind CSS", icon: <SiTailwindcss />, level: 85 },
-  { name: "JavaScript", icon: <FaJs />, level: 65 },
+  { name: "JavaScript", icon: <FaJs />, level: 70 },
   { name: "React.js", icon: <FaReact />, level: 70 },
   { name: "C / C++", icon: <SiCplusplus />, level: 65 },
   { name: "Git & GitHub", icon: <FaGitAlt />, level: 60 },

@@ -1,4 +1,4 @@
-function Testimonials() {
+function TEstimonials() {
   return (
     <section className="py-20 text-center">
 
@@ -22,4 +22,4 @@ function Testimonials() {
   );
 }
 
-export default Testimonials;
+export default TEstimonials;
